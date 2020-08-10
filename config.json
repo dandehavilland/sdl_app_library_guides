@@ -141,6 +141,35 @@
             ]
         },
         {
+            "name": "Remote Control",
+            "navigation": [
+                {
+                    "name": "Introduction"
+                },
+                {
+                    "name": "Checking Module Support"
+                },
+                {
+                    "name": "Climate"
+                },
+                {
+                    "name": "Radio"
+                },
+                {
+                    "name": "Seat"
+                },
+                {
+                    "name": "Audio"
+                },
+                {
+                    "name": "Light"
+                },
+                {
+                    "name": "HMI"
+                }
+            ]
+        },
+        {
             "name": "Other SDL Features",
             "navigation": [
                 {
